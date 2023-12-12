@@ -1,4 +1,4 @@
-# portafolio: Technolochicas PRO
+# Portafolio: Technolochicas PRO
 
 Este proyecto fue chreado durante el bootcamp de Technolochicas PRO, es un apagina web resposiba (adaptable a deversos dispositivos) con el proposito de poner en practica el uso de framworks y conocimientos
 
